@@ -1,0 +1,45 @@
+Running: D:\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o D:/arci/project_archi/RegisterFile_isim_beh.exe -prj D:/arci/project_archi/RegisterFile_beh.prj work.RegisterFile 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "D:/arci/project_archi/reg.vhd" into library work
+Parsing VHDL file "D:/arci/project_archi/OURLIBRARY.vhd" into library work
+Parsing VHDL file "D:/arci/project_archi/mux32.vhd" into library work
+Parsing VHDL file "D:/arci/project_archi/decoder.vhd" into library work
+Parsing VHDL file "D:/arci/project_archi/RegisterFile.vhd" into library work
+WARNING:HDLCompiler:946 - "D:/arci/project_archi/RegisterFile.vhd" Line 91: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/arci/project_archi/RegisterFile.vhd" Line 92: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/arci/project_archi/RegisterFile.vhd" Line 93: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/arci/project_archi/RegisterFile.vhd" Line 94: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/arci/project_archi/RegisterFile.vhd" Line 95: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/arci/project_archi/RegisterFile.vhd" Line 96: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/arci/project_archi/RegisterFile.vhd" Line 97: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/arci/project_archi/RegisterFile.vhd" Line 98: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/arci/project_archi/RegisterFile.vhd" Line 99: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/arci/project_archi/RegisterFile.vhd" Line 100: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/arci/project_archi/RegisterFile.vhd" Line 101: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/arci/project_archi/RegisterFile.vhd" Line 102: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/arci/project_archi/RegisterFile.vhd" Line 103: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/arci/project_archi/RegisterFile.vhd" Line 104: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/arci/project_archi/RegisterFile.vhd" Line 105: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/arci/project_archi/RegisterFile.vhd" Line 106: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/arci/project_archi/RegisterFile.vhd" Line 107: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/arci/project_archi/RegisterFile.vhd" Line 108: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/arci/project_archi/RegisterFile.vhd" Line 109: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/arci/project_archi/RegisterFile.vhd" Line 110: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/arci/project_archi/RegisterFile.vhd" Line 111: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/arci/project_archi/RegisterFile.vhd" Line 112: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/arci/project_archi/RegisterFile.vhd" Line 113: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/arci/project_archi/RegisterFile.vhd" Line 114: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/arci/project_archi/RegisterFile.vhd" Line 115: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/arci/project_archi/RegisterFile.vhd" Line 116: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/arci/project_archi/RegisterFile.vhd" Line 117: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/arci/project_archi/RegisterFile.vhd" Line 118: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/arci/project_archi/RegisterFile.vhd" Line 119: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/arci/project_archi/RegisterFile.vhd" Line 120: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/arci/project_archi/RegisterFile.vhd" Line 121: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/arci/project_archi/RegisterFile.vhd" Line 122: Actual for formal port lod is neither a static name nor a globally static expression
+Starting static elaboration
+ERROR:HDLCompiler:244 - "D:/arci/project_archi/OURLIBRARY.vhd" Line 59: Binding entity decoder does not have generic n
+ERROR:Simulator:777 - Static elaboration of top level VHDL design unit registerfile in library work failed

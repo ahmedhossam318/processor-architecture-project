@@ -1,0 +1,5 @@
+vhdl isim_temp "reg.vhd"
+vhdl isim_temp "OURLIBRARY.vhd"
+vhdl isim_temp "mux32.vhd"
+vhdl isim_temp "decoder.vhd"
+vhdl isim_temp "RegisterFile.vhd"

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/arci/alupro/alu_isim_beh.exe" -prj "D:/arci/alupro/alu_beh.prj" "work.alu" 

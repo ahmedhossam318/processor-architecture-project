@@ -1,0 +1,3 @@
+vhdl work "OURLIBRARY.vhd"
+vhdl work "aluonebit.vhd"
+vhdl work "alu.vhd"

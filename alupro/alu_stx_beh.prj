@@ -1,0 +1,3 @@
+vhdl isim_temp "OURLIBRARY.vhd"
+vhdl isim_temp "aluonebit.vhd"
+vhdl isim_temp "alu.vhd"
